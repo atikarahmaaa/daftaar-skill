@@ -13,4 +13,11 @@
 -bimbingan konseling 
 -pendidikan jasmani olahraga dan kesehatan
 -kewirausahaan
-dan lain lain
+
+++ skill yang diperoleh dari Rucom ++
+-mengetik sepuluh jari 
+-Free CodeCamp.org responsive web design( html, css,and javascript)
+-boottable linux
+-Visual studio Code
+-sololearn (introduction to HTML, jQuery, introduction JavaScript, Coding for marketers, introduction to CSS, responsive web design, web defelopent fundamentals)
+-buat akun linkedin dan menghubungkan sertifikasi sololearn
